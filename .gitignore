@@ -1,0 +1,4 @@
+# Ignorar configurações do PyCharm
+.idea/
+__pycache__/
+*.pyc
