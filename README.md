@@ -40,4 +40,18 @@ pip install pyperclip
 ```bash
 python gerador_senha.py
 ```
+## Estrutura do projeto
+gerador-senhas-python/
+├── gerador_senha.py
+├── README.md
+└── .gitignore
 
+## Arquivos ignorados (via .gitignore)
+gitignore
+Copiar
+Editar
+.idea/
+__pycache__/
+*.pyc
+
+Feito com foco em aprendizado e prática de Python por João Felipe.
